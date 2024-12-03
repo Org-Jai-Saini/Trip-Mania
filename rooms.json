@@ -1,0 +1,74 @@
+[
+   {
+      "name": "Shimla Tour",
+      "imageurls": [
+         "https://images.app.goo.gl/sjRuExCm53eCUt6eA"
+      ],
+      "rentperday": 8000,
+      "type": "Delux",
+      "maxcount": 3,
+      "phonenumber": 7014281008,
+      "currentbookings": [],
+      "description": "Shimla is often covered along with nearby towns of Kufri, a hill-station almost always covered by snow and Chail, famous for a huge palace and the highest cricket ground in the world."
+   },
+   {
+      "name": "Manali Tour",
+      "imageurls": [
+         "https://images.app.goo.gl/TRgCGH31LmrofKCw7"
+      ],
+      "rentperday": 7000,
+      "type": "Delux",
+      "maxcount": 3,
+      "phonenumber": 7014281008,
+      "currentbookings": [],
+      "description": "A gift of the Himalayas to the world, Manali is a beautiful township nestled in the picturesque Beas River valley"
+   },
+   {
+      "name": "Andaman and Nicobar Islands",
+      "imageurls": [
+         "https://images.app.goo.gl/6armnfFmasUWTX5c9"
+      ],
+      "rentperday": 10000,
+      "type": "Delux",
+      "maxcount": 3,
+      "phonenumber": 7014281008,
+      "currentbookings": [],
+      "description": "The islands offer a wide range of activities, from diving and snorkelling to trekking and bird watching"
+   },
+   {
+      "name": "Ladhak",
+      "imageurls": [
+         "https://images.app.goo.gl/3tA5xKcGShbrTW6w9"
+      ],
+      "rentperday": 6000,
+      "type": "Non-Delux",
+      "maxcount": 4,
+      "phonenumber": 7014281008,
+      "currentbookings": [],
+      "description": "Ladakh tourism is famous for its remote culture and monastic traditions, alpine landscape and natural beauty, and most of all, its friendly people."
+   },
+   {
+      "name": "Darjeeling",
+      "imageurls": [
+         "https://images.app.goo.gl/6c3K682EXgoEZxwi7"
+      ],
+      "rentperday": 12000,
+      "type": "Non-Delux",
+      "maxcount": 3,
+      "phonenumber": 7014281008,
+      "currentbookings": [],
+      "description": "Darjeeling is famous throughout the world for the tea it grows and the great view of the Kanchenjunga range of mountains that it offers."
+   },
+   {
+      "name": "Mount Abu",
+      "imageurls": [
+         "https://images.app.goo.gl/mCWjSA2cmVdD6Bv37"
+      ],
+      "rentperday": 5000,
+      "type": "Non-Delux",
+      "maxcount": 3,
+      "phonenumber": 7014281008,
+      "currentbookings": [],
+      "description": "Mount Abu: The Scenic Hill Station of Rajasthan. Set amidst the lush greenery of the Aravalli mountains, places to visit in Mount Abu include waterfalls, lakes, forests, temples and scenic spots for sightseeing"
+   }
+]

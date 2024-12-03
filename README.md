@@ -1,0 +1,1 @@
+Website for Trip-Booking name Trip Mania which can connects with your MongoDB Compass for data storage and captures the login and signup information of the user.
